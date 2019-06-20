@@ -1,13 +1,13 @@
 ---
 title: Say Hello to the world
-date: 2019-02-07
+date: 2019-06-19
 ---
 
-## Hello world
+# Python sample
 
-Welcome to GitPress. This is your first post.
+## Execute the following command
 
-## Useful links
-
-- Website: https://gitpress.io
-- Getting Started: https://gitpress.io/c/help/welcome
+```python3
+import subprocess
+subprocess.call(["ls"])
+```
