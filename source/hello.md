@@ -7,7 +7,7 @@ date: 2019-06-19
 
 ## Execute the following command
 
-```python3
+```python
 import subprocess
 subprocess.call(["ls"])
 ```
