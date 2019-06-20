@@ -1,6 +1,6 @@
 ----
 title: JavaScript snippet
-date: 2019-06-18
+date: 2019-06-20
 ---
 
 # 背景画像削除のブックマークレット
